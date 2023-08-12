@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashishgartan/e-commerce-dashboard/static/css/main.4140ea33.css",
+    "main.js": "/ashishgartan/e-commerce-dashboard/static/js/main.3f6ee949.js",
+    "static/js/787.22edae46.chunk.js": "/ashishgartan/e-commerce-dashboard/static/js/787.22edae46.chunk.js",
+    "index.html": "/ashishgartan/e-commerce-dashboard/index.html",
+    "main.4140ea33.css.map": "/ashishgartan/e-commerce-dashboard/static/css/main.4140ea33.css.map",
+    "main.3f6ee949.js.map": "/ashishgartan/e-commerce-dashboard/static/js/main.3f6ee949.js.map",
+    "787.22edae46.chunk.js.map": "/ashishgartan/e-commerce-dashboard/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4140ea33.css",
+    "static/js/main.3f6ee949.js"
+  ]
+}
